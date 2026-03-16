@@ -25,10 +25,7 @@ export function HeroSection() {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source
-            src="video.mp4"
-            type="video/mp4"
-          />
+          <source src="/video.mp4" type="video/mp4" />
         </video>
         {/* Dark Overlay with luxury gradient */}
         <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/40 to-black/80" />
