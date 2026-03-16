@@ -346,3 +346,11 @@ export function updateAuctionStatuses(): void {
     }
   }
 }
+
+export const db = {
+  user: userDb,
+  auction: auctionDb,
+  bid: bidDb,
+  transaction: transactionDb,
+  updateStatuses: updateAuctionStatuses
+}
