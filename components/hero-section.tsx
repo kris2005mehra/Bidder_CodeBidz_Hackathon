@@ -25,7 +25,10 @@ export function HeroSection() {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="/video.mp4" type="video/mp4" />
+          <source 
+    src="https://rp2k04bx2kgxqzwb.public.blob.vercel-storage.com/5122718_Person_People_3840x2160.mp4" 
+    type="video/mp4" 
+  />
         </video>
         {/* Dark Overlay with luxury gradient */}
         <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/40 to-black/80" />
