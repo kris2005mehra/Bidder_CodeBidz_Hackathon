@@ -45,7 +45,6 @@
     <td><img src="https://github.com/user-attachments/assets/97f3190b-d206-4dbb-909e-641e0ecc00ce" width="100%" /></td>
   </tr>
 </table>
----
 
 ## 🧬 Technical Architecture
 
